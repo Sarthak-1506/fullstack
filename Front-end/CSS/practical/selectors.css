@@ -1,0 +1,25 @@
+#form {
+    background-color: lightblue;
+    border: 2px solid;
+    width: 30%;
+    padding: 20px;
+    margin: 50px auto;
+}
+
+.form-td {
+    padding: 10px;
+}
+
+.btn {
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1);
+    transition: .7s;
+}
