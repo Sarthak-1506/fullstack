@@ -1,0 +1,139 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "name": "Sarthak",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "admin2",
+      "email": "admin2@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "admin3",
+      "email": "admin3@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "4",
+      "name": "admin4",
+      "email": "admin4@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "Services": [
+    {
+      "id": "1",
+      "name": "Landscaping",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.BoqMUeDQLkxZYkLzH9rrDAHaEK?w=318&h=184&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "logo": "https://th.bing.com/th/id/OIP.oNhoxiea8nYkNGkraAQXtwHaF7?w=219&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "id": "2",
+      "name": "Pruning plants",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.wHCsEhL4X3xeBtcugl9iRQHaE8?w=268&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "logo": "https://th.bing.com/th/id/OIP.rik2t8rUq5CEu5vcHlGiCgHaHa?w=165&h=189&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "id": "3",
+      "name": "Irrigation & Drainage",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.b8bMvA3JgTOV56tblaMMbwHaEK?w=311&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "log": "https://th.bing.com/th/id/OIP.FEhsCEeQNOPaXWiJwgMiGwHaF7?w=270&h=216&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "id": "4",
+      "name": "Garden Maintenance",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.hfTNX144yWw6kPRrPYo42wHaE7?w=298&h=198&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "log": "https://th.bing.com/th/id/OIP._j-_KvogoGNzPiW5bnIEBQHaH_?w=174&h=188&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "id": "5",
+      "name": "Green Technology",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.13bfSQ8W86ZGIG7FWgdvpAHaEJ?w=308&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "logo": "https://th.bing.com/th/id/OIP.CGL_yV_wBs-PwzF0Hk3xuAHaH_?w=163&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "id": "6",
+      "name": "Urban Gardening",
+      "des": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "image": "https://th.bing.com/th/id/OIP.jjheXIBa8YsShj3COEIQMwHaFj?w=234&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1",
+      "logo": "https://th.bing.com/th/id/OIP.D6_P3l_XraGDzkowyMSDdQHaFF?w=240&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.1&pid=1.7&rm=3&ucfimg=1"
+    }
+  ],
+  "Projects": [
+    {
+      "id": "1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrgdT2OM0f-qK95PGwNNnTfXYFon9f_KDNg&s",
+      "title": "Landscaping"
+    },
+    {
+      "id": "2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRdiLbPYQ_EWlRVeq5hndtkSXQWUDngZKBg&s",
+      "title": "Pruning plants"
+    },
+    {
+      "id": "3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DJK_DLsVtaVMjnHGi4Y4RRK4kWmeu298vA&s",
+      "title": "Irrigation & Drainage"
+    },
+    {
+      "id": "4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaNKfIBLHpDG7wk9afHFEdaNJwtBqxoPE1w&s",
+      "title": "Garden Maintenance"
+    },
+    {
+      "id": "5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwx8tj1R3rtIu0aG3JKvDyvw2CrTmVjq5prg&s",
+      "title": "Green Technology"
+    },
+    {
+      "id": "6",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkreSwzguU3JtYs6uGaL8GWpM5V5xQRdcXg&s",
+      "title": "Urban Gardening"
+    }
+  ],
+  "team": [
+    {
+      "id": "2",
+      "name": "Johnny Ramirez - 123",
+      "qualitiy": "Garden Designer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7yoWij_qOZl4qgLmFmzo4xvu2cFuggvRIw&s",
+      "role": "Garden Designerv"
+    },
+    {
+      "id": "1767673513917",
+      "name": "Doris Jordan",
+      "qualitiy": "Planter",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknrUSuOLqk7R1EOTrA1y7BSQUDXQRLdqqQA&s"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "Sarthak",
+      "email": "sarthak03@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1767677235611",
+      "name": "Doris Jordan12",
+      "email": "doris@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
